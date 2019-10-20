@@ -470,10 +470,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.pictureBox23);
-            this.Controls.Add(this.pictureBox22);
             this.Controls.Add(this.floor);
             this.Controls.Add(this.player);
+            this.Controls.Add(this.pictureBox23);
+            this.Controls.Add(this.pictureBox22);
             this.Controls.Add(this.pictureBox20);
             this.Controls.Add(this.pictureBox19);
             this.Controls.Add(this.pictureBox18);
